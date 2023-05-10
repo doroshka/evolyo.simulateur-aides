@@ -1,9 +1,7 @@
 import time
 import json
-import requests
 import math
 from re import sub
-from bs4 import BeautifulSoup
 
 json_str = '''
 {
